@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   type:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   intensity:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 0.131
   response:
     m_OverrideState: 0
     m_Value: 0.8
@@ -64,7 +64,7 @@ MonoBehaviour:
     m_Value: 2.97
   scatter:
     m_OverrideState: 1
-    m_Value: 0.036
+    m_Value: 0.121
   clamp:
     m_OverrideState: 0
     m_Value: 65472
